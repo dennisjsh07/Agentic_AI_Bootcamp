@@ -2,3 +2,6 @@ ipykernel
 python-dotenv
 langchain
 langchain-openai
+langchain-google-vertexai
+langchain-google-genai
+langchain-groq
